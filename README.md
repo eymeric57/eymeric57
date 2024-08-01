@@ -93,7 +93,7 @@
     <a href="https://github.com/eymeric57">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=eymeric57&theme=radical&border=7F3FBF&background=0D1117"
-        alt="Saif's GitHub streak"
+        alt="Eymeric57 GitHub streak"
       />
     </a>
   </p>
@@ -102,7 +102,7 @@
     <a href="https://github.com/eymeric57">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eymeric57&theme=radical"
-        alt="Al Siam's GitHub Contribution"
+        alt="Al Eymeric57 GitHub Contribution"
       />
     </a>
   </p>
